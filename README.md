@@ -1,4 +1,5 @@
-pouchdb-getting-started-todo
+pouchdb-todo
 ============================
 
-The source repository for the getting started tutorial for PouchDB
+- Install Live Server
+- Start with index.html
